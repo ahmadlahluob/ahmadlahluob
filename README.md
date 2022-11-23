@@ -1,4 +1,11 @@
 ### Hi there 👋
+#
+professional game programmer 
+
+working for :
+
+studying : computer engineering at tafilah technical university
+
 
 <!--
 **ahmadlahluob/ahmadlahluob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
