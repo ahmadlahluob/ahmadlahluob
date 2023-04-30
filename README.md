@@ -7,7 +7,7 @@ working for :
 studying : computer engineering at tafilah technical university
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apitop-langs/?username=ahmadlahluob)](https://github.com/anuraghazra/github-readme-stats)
+![(https://github-readme-stats.vercel.app/apitop-langs/?username=ahmadlahluob)]
 test
 
 <!--
