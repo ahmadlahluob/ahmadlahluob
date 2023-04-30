@@ -7,7 +7,7 @@ working for :
 studying : computer engineering at tafilah technical university
 
 
-![(https://github-readme-stats.vercel.app/apitop-langs/?username=ahmadlahluob)]
+![top langs](https://github-readme-stats.vercel.app/apitop-langs/?username=ahmadlahluob)
 test
 
 <!--
