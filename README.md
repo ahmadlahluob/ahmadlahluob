@@ -1,6 +1,5 @@
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Intelligent%20Systems%20Engineer;I%20Love%20Web-development;I%20do%20build%20Robots&font=Fira%20Code&center=true&width=440&height=45&color=FAD000&vCenter=true&size=26"></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&color=3411F7&center=true&vCenter=true&random=true&width=435&lines=Computer+Engineering+Student;I'm+Game+Developer;I+Love+Robotics)](https://git.io/typing-svg)
+
 professional game programmer 
 
 working for :
