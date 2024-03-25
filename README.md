@@ -12,6 +12,8 @@ studying : computer engineering at tafilah technical university
 ![stats](https://github-readme-stats.vercel.app/api?username=ahmadlahluob&include_all_commits=true&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadlahluob&theme=transparent&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+<p><img src="https://streak-stats.demolab.com/?user=ahmadlahluob&" alt="ahmadlahluob" /></p>
+
 
 <h3 align="left">My Accounts:</h3>
 <p align="left">
