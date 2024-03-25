@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DBF7B9&random=false&width=435&lines=I+am+Computer+Engineer+Student;I+am+Game+Developer;I+love+Robotics)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DBF7B9&random=false&width=435&lines=I+am+Computer+Engineering+Student;I+am+Game+Developer;I+love+Robotics)](https://git.io/typing-svg)
 
 Professional Game Developer
 
