@@ -6,7 +6,7 @@ working at Limeless Studio
 
 studying : computer engineering at tafilah technical university
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadlahluob&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=dracula" alt="ahmadlahluob" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadlahluob&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=dracula" alt="ahmadlahluob" /></a> </p>
 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=ahmadlahluob&include_all_commits=true&show_icons=true&theme=transparent)
