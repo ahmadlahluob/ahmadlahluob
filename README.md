@@ -13,8 +13,7 @@ studying : computer engineering at tafilah technical university
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadlahluob&theme=transparent&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ahmadlahluob&theme=cobalt&border_radius=10)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=ahmadlahluob&theme=dark&border_radius=6.7&date_format=M%20j%5B%2C%20Y%5D&background=71%2C40070F%2C082452)](https://git.io/streak-stats)
 <h3 align="left">My Accounts:</h3>
 <p align="left">
 <a href="https://twitter.com/lahluob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lahluob" height="30" width="40" /></a>
